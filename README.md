@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydals1004)](https://solved.ac/dydals1004/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harimyong&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harimyong&layout=compact&theme=radical)
