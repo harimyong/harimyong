@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydals1004)](https://solved.ac/dydals1004/)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dydals1004&theme=dark)
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harimyong&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harimyong&layout=compact&theme=radical)
