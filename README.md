@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydals1004)](https://solved.ac/dydals1004/)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dydals1004&theme=dark)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dydals1004&theme=dark) -->
